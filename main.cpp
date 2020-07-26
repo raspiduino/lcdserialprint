@@ -1,4 +1,4 @@
-#include <PCD8544_HOANGSA.h> //You can download it here: http://arduino.vn/tutorial/1345-nokia5110-huong-dan-su-dung-va-chia-se-thu-vien-hoang-sa or https://drive.google.com/file/d/0BzMEcyRK_uUFWWJIcHFxOThpRTg/view
+#include "PCD8544_HOANGSA.h" //You can download it here: http://arduino.vn/tutorial/1345-nokia5110-huong-dan-su-dung-va-chia-se-thu-vien-hoang-sa or https://drive.google.com/file/d/0BzMEcyRK_uUFWWJIcHFxOThpRTg/view
 
 String all_lcd_content = "";
 int x_char = 0;
